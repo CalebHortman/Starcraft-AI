@@ -1,3 +1,3 @@
 # Starcraft-AI-real
 
-This is an AI project for stuff 
+This is an AI for the game starcraft 2
